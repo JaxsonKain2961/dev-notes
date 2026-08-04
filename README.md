@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Capacity Planning Direct Browser Storage: Presigned POST, PUT, or Multipart?](posts/capacity-planning-direct-browser-storage-presigned-post-put-or-multipart.md)
 - [Error Tracking for SaaS: Grouping, Fingerprints, Stack Traces, Releases, and Environments](posts/error-tracking-for-saas-grouping-fingerprints-stack-traces-releases-and.md)
 - [Is SMS OTP Enough for GDPR, PSD2, NIST, and 2FA Login Risk?](posts/is-sms-otp-enough-for-gdpr-psd2-nist-and-2fa-login-risk.md)
 - [Feature Flags: 404 Missing Keys, Delete/Recreate, and Node.js Fallback Defaults](posts/feature-flags-404-missing-keys-delete-recreate-and-node-js-fallback-defa.md)
